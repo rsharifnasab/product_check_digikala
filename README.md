@@ -1,1 +1,0 @@
-a simple program to get data from digikala.com
